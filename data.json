@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Judul Pertama",
+    "waktu": "2025-06-30",
+    "about": "Tentang item pertama",
+    "rincian": "Ini adalah rincian lengkapnya.",
+    "linkurl": "https://contoh.com/1"
+  },
+  {
+    "title": "Judul Kedua",
+    "waktu": "2025-06-29",
+    "about": "Tentang item kedua",
+    "rincian": "Penjelasan lengkap kedua.",
+    "linkurl": "https://contoh.com/2"
+  }
+]
